@@ -13,7 +13,7 @@ get '/' do
     avatar_url: "https://i.imgur.com/su78JUv.jpg",
     photo_url: "https://i.imgur.com/xQdHOaz.png",
     humanized_time_ago: humanized_time_ago(15),
-    like_count: 0,
+    like_count: 69,
     comment_count: 1,
     comments: [{
       username: "sharky_j", 
@@ -25,7 +25,7 @@ get '/' do
     avatar_url: "https://live.staticflickr.com/65535/52358421348_f34c7996b1.jpg",
     photo_url: "https://live.staticflickr.com/65535/52357237337_1cc718f6a7_4k.jpg",
     humanized_time_ago: humanized_time_ago(65),
-    like_count: 0,
+    like_count: 69,
     comment_count: 1,
     comments: [{
       username: "kirk_whalum", 
@@ -37,7 +37,7 @@ get '/' do
     avatar_url: "https://live.staticflickr.com/65535/52358415933_0a0e6bc35f_3k.jpg",
     photo_url: "https://live.staticflickr.com/65535/52358494794_f88b160d15_4k.jpg",
     humanized_time_ago: humanized_time_ago(190),
-    like_count: 0,
+    like_count: 69,
     comment_count: 1,
     comments: [{
       username: "marlin_peppa", 
